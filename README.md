@@ -104,7 +104,7 @@ main(output_folder="/path/to/demo/your_video", frame_skip=2)
 The script imports the animated SMPL-X mesh (using shape keys) and camera trajectory. Press **Spacebar** to play the animation and **Numpad 0** to view through the camera.
 
 ## WHAC-A-Mole
-Check out our [homepage](https://wqyin.github.io/projects/WHAC/) for dataset download links.
+Check out our [Hugging Face](https://huggingface.co/datasets/waanqii/WHAC-A-Mole/tree/main) page or [homepage](https://wqyin.github.io/projects/WHAC/) for dataset download.
 
 https://github.com/wqyin/WHAC/assets/37542645/339e1447-6211-4a4f-8ba4-957c028bd2f7
 
